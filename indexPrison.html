@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="en">
+
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Aboreto&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="indexPrison.css">
+</head>
+
+
+<body>
+    <h3 class='head'> Prison (Цель: сначала апнуть 11 лвл, потом убить босса) </h3>
+    <div class='st'>
+        <span class="q"> Введите ваше имя</span>
+        <input class='InputName'>
+        <button class='submitName'> Подтверждаю</button>
+    </div>
+
+    <hr>
+
+    <h3 class='Mine'>Mines</h3>
+
+
+    <div class='demo'>
+        
+        <button class='lvl1'> Арбузы (топор)</button>
+        <button class='lvl2'> Землянка (лопата)</button>
+        <button class='lvl3'> Каменная (кирка)</button>
+        <button class='lvl4'> Бурмалда (кирка)</button>
+        <button class='lvl5'> Дерево (топор)</button>
+        <button class='lvl6'> Кварц (кирка)</button>
+        <button class='lvl7'> Лёд (кирка)</button>
+        <button class='lvl8'> Изумруды (кирка)</button>
+        <button class='lvl9'> Песок (лопата)</button>
+        <button class='lvl10'> Кирпич (кирка)</button>
+
+    </div>
+
+    <hr>
+
+    <h3 class='push'>Push</h3>
+    <div class="error"></div>
+
+    <hr>
+
+    <h3 class='mine'>Information about person</h3>
+
+    <div class='infoPerson'>
+
+        Nickname: <span class='infoNick'>-</span>
+        LVL: <span class='infoLvl'>1</span>
+        Blocks mined: <span class='infoBlocksMined'>0</span>
+        Money: <span class='infoMoney'>0</span>
+
+    </div>
+
+    <hr>
+
+    <div align='center' class='digG'>
+        <button class='lvlUp'>LvL UP</button>
+         <span class='lvlText'>Нужно: 100 блоков и 5$</span>
+
+    </div>
+
+    <hr>
+    
+    <h3 class='itemH'>Items Shop</h3>
+
+    <div class='item'>
+
+        <div class="Nitem">
+            <button class="N1">Деревянная лопата</button>
+            <button class="N2">Деревянная кирка</button>
+            <button class="N3">Каменный топор</button>
+        </div>
+
+        <div class='Price'>
+            <span class="N10">2$</span>
+            <span class="N20">3$</span>
+            <span class="N5">6$</span>
+        </div>
+
+        <div class='Photo'>
+            <span class="P1">
+                <img class="p1" src="12.0.png" alt="">
+            </span>
+            <span class="P2">
+                <img class="p2" src="12.0.png" alt="">
+            </span>
+            <span class="P3">
+                <img class="p3" src="3.1.png" alt="">
+            </span>
+            
+        </div>
+
+        <hr>
+
+
+        <div align='center' class='BossS'>
+            <button class='BossB'>Дэуль с боссом</button>
+            <span class='BossQ'>Стоимость: 1000$</span>
+        
+        </div>
+
+
+
+
+
+    </div>
+
+
+
+    <script src='const.js'> </script>
+    <script src='condition.js'> </script>
+    <script src='dig.js'> </script>
+    <script src='instruments.js'> </script>
+    <script src='submitAndLvlUp.js'></script>
+    <script src='boss.js'> </script>
+
+</body>
+</html>

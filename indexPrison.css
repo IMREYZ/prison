@@ -1,0 +1,411 @@
+body {
+    font-family: 'Aboreto', cursive;
+    background-color: #F0FFFF
+}
+.Price{
+    font-size: 40px;
+    text-align: center;
+    justify-content: space-around
+}
+.Photo{
+    text-align: center;
+    justify-content: space-around;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+.st{
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+.q{
+    font-size: 30px;
+}
+
+.InputName:hover{
+    background-color: white
+}
+
+.submitName:hover{
+    background-color: white
+}
+
+.lvl1:hover{
+    background-color: white
+}
+
+.lvl1:hover{
+    background-color: white
+}
+
+.lvl2:hover{
+    background-color: white
+}
+
+.lvl3:hover{
+    background-color: white
+}
+
+.lvl4:hover{
+    background-color: white
+}
+
+.lvl5:hover{
+    background-color: white
+}
+
+.lvl6:hover{
+    background-color: white
+}
+
+.lvl7:hover{
+    background-color: white
+}
+
+.lvl8:hover{
+    background-color: white
+}
+
+.lvl9:hover{
+    background-color: white
+}
+
+.lvl10:hover{
+    background-color: white
+}
+
+.lvlUp:hover{
+    background-color: white
+}
+
+.N1:hover{
+    background-color: white
+}
+
+.N2:hover{
+    background-color: white
+}
+
+.N3:hover{
+    background-color: white
+}
+
+.submitName{
+    font-size: 30px;
+}
+.InputName{
+    border-radius: 12px;
+    background-color: bisque;
+    font-family: 'Aboreto', cursive;
+    font-size: 30px;
+    
+}
+
+.submitName{
+    border-radius: 12px;
+    background-color: bisque;
+    font-family: 'Aboreto', cursive;
+}
+.Mine{
+    text-align: center;
+    font-family: 'Aboreto', cursive;
+    font-size: 30px;
+}
+
+.push{
+    text-align: center;
+    font-family: 'Aboreto', cursive;
+    font-size: 30px;
+}
+
+.BossQ{
+    text-align: center;
+    font-size: 30px
+
+}
+
+.itemH{
+    text-align: center;
+    font-size: 30px;
+}
+
+.BossH{
+    text-align: center;
+    font-size: 30px;
+}
+
+.mine{
+    text-align: center;
+    font-family: 'Aboreto', cursive;
+    font-size: 30px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+.Nitem{
+    text-align: center;
+    justify-content: space-around
+}
+
+.N10{
+    font-size: 100px;
+}
+
+
+.N5{ 
+    font-size: 100px;
+}
+
+.N20{
+    margin-right: 290px;
+    margin-left: 290px;
+    font-size: 100px;
+}
+
+.N1{
+    margin-right: 120px;
+    font-family: 'Aboreto', cursive; 
+    border-radius: 12px;
+    background-color: bisque;
+    font-size: 35px;
+ 
+}
+
+.BossS{
+    text-align: center;
+    justify-content: space-around
+ 
+}
+
+.BossB:hover{
+    background-color: white
+}
+
+.N2{
+    margin-right: 100px; 
+    font-family: 'Aboreto', cursive;
+    border-radius: 12px;
+    background-color: bisque;
+    font-size: 35px;
+}
+
+.N3{ 
+    font-family: 'Aboreto', cursive;
+    margin-left: 10px;
+    border-radius: 12px;
+    background-color: bisque;
+    font-size: 35px;
+}
+
+.infoNick{
+    margin-right: 40px;  
+}
+
+.infoLvl{
+    margin-right: 40px; 
+    font-weight: 700; 
+}
+
+.infoBlocksMined{
+    margin-right: 40px; 
+    font-weight: 700;
+}
+.error{
+    text-align: center;
+    font-size: 60px;
+    color:rgb(91, 2, 2);
+    margin-top: 40px;
+    margin-bottom: 40px;
+
+}
+.infoMoney{
+    margin-right: 40px;
+    font-weight: 700;  
+}
+.lvlUved{
+    margin-right: 35px;
+    font-size: 35px;
+}
+.infoNick{
+    margin-right: 40px;  
+}
+
+.infoNick{
+    margin-right: 20px;
+    font-weight: 700
+}
+
+.BossQ{
+    margin-right: 35px;
+    font-size: 35px;
+}
+
+.lvlText{
+    margin-right: 35px;
+    font-size: 35px;
+}
+
+.infoPerson{
+    text-align: center;
+    font-size: 40px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+.lvlUp{
+    background-color: #38d9a9;
+    font-size: 40px;
+    background-color: bisque;
+    padding: 10px;
+    margin: 30px;
+    border-radius: 12px;    
+}
+
+.BossB{
+    background-color: #38d9a9;
+    font-size: 40px;
+    background-color: bisque;
+    padding: 10px;
+    margin: 30px;
+    border-radius: 12px;    
+}
+
+.demo {
+    display: flex;
+    text-align: center;
+    justify-content: space-around;
+    background-color: #38d9a9;
+    padding: 20px;
+    border: 1px solid blue;
+    font-size: 30px;
+    background-color: bisque;
+    border-radius: 10px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+
+.lvl1{
+    justify-content: center;
+    background-color: beige;
+    margin-right: 10px;
+    border:1px solid blue;
+    font-size: 30px;
+    border-radius: 12px;
+    font-family: 'Aboreto', cursive;
+    color: green;
+    height: 200px;
+}
+
+.lvl2{
+    justify-content: center;
+    background-color: beige;
+    margin-right: 10px;
+    border:1px solid blue;
+    font-size: 30px;
+    border-radius: 12px;
+    font-family: 'Aboreto', cursive;
+    color: red
+}
+
+.lvl3{
+    justify-content: center;
+    background-color: beige;
+    margin-right: 10px;
+    border:1px solid blue;
+    font-size: 30px;
+    border-radius: 12px;
+    font-family: 'Aboreto', cursive;
+    color: red
+}
+
+.lvl4{
+    justify-content: center;
+    background-color: beige;
+    margin-right: 10px;
+    border:1px solid blue;
+    font-size: 30px;
+    border-radius: 12px;
+    font-family: 'Aboreto', cursive;
+    color: red
+}
+
+.lvl5{
+    justify-content: center;
+    background-color: beige;
+    margin-right: 10px;
+    border:1px solid blue;
+    font-size: 30px;
+    border-radius: 12px;
+    font-family: 'Aboreto', cursive;
+    color: red
+}
+
+.lvl6{
+    justify-content: center;
+    background-color: beige;
+    margin-right: 10px;
+    border:1px solid blue;
+    font-size: 30px;
+    border-radius: 12px;
+    font-family: 'Aboreto', cursive;
+    color: red
+}
+
+.lvl7{
+    justify-content: center;
+    background-color: beige;
+    margin-right: 10px;
+    border:1px solid blue;
+    font-size: 30px;
+    border-radius: 12px;
+    font-family: 'Aboreto', cursive;
+    color: red;
+}
+
+.lvl8{
+    justify-content: center;
+    background-color: beige;
+    margin-right: 10px;
+    border:1px solid blue;
+    font-size: 30px;
+    border-radius: 12px;
+    font-family: 'Aboreto', cursive;
+    color: red
+}
+
+.lvl9{
+    justify-content: center;
+    background-color: beige;
+    margin-right: 10px;
+    border:1px solid blue;
+    font-size: 30px;
+    border-radius: 12px;
+    font-family: 'Aboreto', cursive;
+    color: red
+}
+
+.lvl10{
+    justify-content: center;
+    background-color: beige;
+    margin-right: 10px;
+    border:1px solid blue;
+    font-size: 30px;
+    border-radius: 12px;
+    font-family: 'Aboreto', cursive;
+    color: red
+}
+
+
+.inviteToMine {
+    display: flex;
+    justify-content: center;
+    line-height: 100px;
+    line-break: 100px;
+}
+
+
+.head{
+    text-align: center;
+    font-size: 30px;
+}
